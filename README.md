@@ -1,5 +1,5 @@
 # SQL_LEGO_Data_Analysis
-This is a SQL portfolio project which include the dataset from https://rebrickable.com/downloads/ and some basic data analytic tasks.
+This is a SQL portfolio project which include the dataset from [Ribrickable](https://rebrickable.com/downloads/) and some basic data analytic tasks.
 Some questions for the analytic include:
 - QUESTION 1: What is the total numbers of parts per theme?
 - QUESTION 2: What is the total parts per year?
